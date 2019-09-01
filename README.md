@@ -4,4 +4,4 @@ sendes til min serveres inputfelt og omvendt sendes min servers outputfelt til m
 klients inputfelt når der trykkes på enter. 
 
 ### Her viser jeg en demonstration af mit chat-system
-![](https://github.com/nicklasbring/SimpleChatServer/blob/master/src/Pictures/Sk%C3%A6rmbillede%202019-08-30%20kl.%2009.18.23.png?raw=true)
+![](https://github.com/nicklasbring/SimpleChatServer/blob/master/src/pictures/Sk%C3%A6rmbillede%202019-08-30%20kl.%2009.18.23.png?raw=true)
